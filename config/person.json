@@ -1,0 +1,66 @@
+{
+  "__parent": "./config.json",
+  "person": {
+    "name": {
+      "first": "Bahram",
+      "last": "Jafari",
+      "full": "@{./last} @{./first}"
+    },
+    "nick": "Bahram",
+    "abbr": "bjafari",
+    "email": "bahramjafari2006@gmail.com",
+    "url": "http://bit.ly/bahramcv",
+
+    "bio": {
+      "birth": "2006",
+      "citizenship": "Afghan",
+      "location": {
+        "country": "Afghanistan",
+        "city": "Kabul",
+        "full": "@{./country}, @{./city}"
+      }
+    },
+
+    "home": {
+      "pos-prefix": "Full-Stack",
+      "pos-title": "Developer",
+      "pos-tags": "#Python #Django #React #JavaScript"
+    },
+
+    "socials": {
+      "linkedin": {
+        "name": "linkedin",
+        "label": "LinkedIn",
+        "title": "LinkedIn profile",
+        "icon": "fab fa-linkedin",
+        "url": "https://af.linkedin.com/in/bahram-jafari-58b616352?trk=people-guest_people_search-card"
+      },
+      "github": {
+        "name": "github",
+        "label": "Github",
+        "title": "Github account",
+        "icon": "fab fa-github",
+        "url": "https://github.com/bahram-jafari"
+      },
+      "bitbucket": {
+        "name": "bitbucket",
+        "label": "BitBucket",
+        "title": "BitBucket repos",
+        "icon": "fab fa-bitbucket",
+        "url": "https://bitbucket.org/bahram-jafari"
+      },
+      "dockerhub": {
+        "name": "dockerhub",
+        "label": "Docker",
+        "title": "Docker Hub",
+        "icon": "fab fa-docker",
+        "url": "http://bit.ly/bahram-docker-hub"
+      }
+    },
+
+    "contacts": {
+      "cell": "KzkzIDc4IDc4OCAxNSA5OA==",
+      "email": "bWFpbHRvOmJhaHJhbWphZmFyaTIwMDZAZ21haWwuY29t"
+    }
+  }
+}

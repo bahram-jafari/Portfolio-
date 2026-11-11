@@ -1,0 +1,12 @@
+{
+  "name": "shufflejs",
+  "_cacheHeaders": {
+    "ETag": "W/\"10a70-t3OAWMCtechmJaV6W170vTlCaGU\"",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:W/\"10a70-t",
+  "main": "index.js",
+  "_source": "https://cdn.jsdelivr.net/npm/shufflejs@5.2.2/dist/shuffle.js",
+  "_target": "*",
+  "_originalSource": "https://cdn.jsdelivr.net/npm/shufflejs@5.2.2/dist/shuffle.js"
+}
